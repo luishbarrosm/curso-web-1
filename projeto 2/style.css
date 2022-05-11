@@ -1,0 +1,33 @@
+*{
+    font-family: Trebuchet MS,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Tahoma,sans-serif; 
+    color: white;
+}
+
+body{
+    background-color: #313030;
+    
+}
+
+#main{
+    width: 900px;
+    
+}
+
+#nav{
+    text-align: center;
+    background-color: black;
+    padding: 18px;
+}
+
+#conteudo{
+    padding: 10px;
+    background-color: #494848;
+}
+
+#footer{
+    text-align: center;
+}
+
+.img-cp{
+    border: 10px solid #C19A6B;
+}
